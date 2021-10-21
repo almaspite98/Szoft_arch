@@ -1,0 +1,180 @@
+2021-02-21 22:12:09,125 INFO  [org.jboss.modules] (main) JBoss Modules version 1.11.0.Final
+2021-02-21 22:12:09,704 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.12.Final
+2021-02-21 22:12:09,714 INFO  [org.jboss.threads] (main) JBoss Threads version 2.4.0.Final
+2021-02-21 22:12:09,882 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: WildFly Full 22.0.1.Final (WildFly Core 14.0.1.Final) starting
+2021-02-21 22:12:09,884 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	com.ibm.cpu.endian = little
+	com.ibm.jcl.checkClassPath = 
+	com.ibm.oti.configuration = scar
+	com.ibm.oti.shared.enabled = false
+	com.ibm.oti.vm.bootstrap.library.path = C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin
+	com.ibm.oti.vm.library.version = 29
+	com.ibm.system.agent.path = C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin
+	com.ibm.util.extralibs.properties = 
+	com.ibm.vm.bitmode = 64
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	ibm.signalhandling.rs = false
+	ibm.signalhandling.sigchain = true
+	ibm.signalhandling.sigint = true
+	ibm.system.encoding = Cp1252
+	java.awt.fonts = 
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.headless = true
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\jboss-modules.jar
+	java.class.version = 59.0
+	java.compiler = j9jit29
+	java.fullversion = 15.0.2+7
+JRE 15 Windows 10 amd64-64-Bit Compressed References 20210121_173 (JIT enabled, AOT enabled)
+OpenJ9   - 345e1b09e
+OMR      - 741e94ea8
+JCL      - 863b523566 based on jdk-15.0.2+7
+	java.home = C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9
+	java.io.tmpdir = C:\Users\dbobula\AppData\Local\Temp\
+	java.library.path = C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin;C:\WINDOWS\system32;C:\WINDOWS;native;C:/Program Files/AdoptOpenJDK/jdk-15.0.2.7-openj9/bin/server;C:/Program Files/AdoptOpenJDK/jdk-15.0.2.7-openj9/bin;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\Users\dbobula\programs\openjdk-11.0.2\jdk-11.0.2\bin;C:\Users\dbobula\programs\gradle-5.5.1-all\gradle-5.5.1\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;"C:\Users\dbobula\AppData\Local\Microsoft\WindowsApps;C:\Users\dbobula\programs\openjdk-11.0.2\jdk-11.0.2\bin";C:\tools\mysql\current\bin;C:\Users\dbobula\AppData\Local\atom\bin;C:\Users\dbobula\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dbobula\AppData\Roaming\npm;C:\Users\dbobula\AppData\Local\GitHubDesktop\bin;C:\Users\dbobula\Desktop\bin;C:\Users\dbobula\Desktop;C:\Users\dbobula\private\msys2\usr\bin;C:\Users\dbobula\private\msys2\mingw64\bin;C:\Users\dbobula\private\Dekl;C:\Users\dbobula\private;C:\Program Files\Azure Data Studio\bin;C:\Users\dbobula\.dotnet\tools;C:\Users\dbobula\private\MSc\01\SOI\apache-maven-3.6.3\bin;C:\Users\dbobula\private\MSc\01\SOI\protoc-3.15.1-win64\bin;;C:\Users\dbobula\private\MSc\01\SOI\eclipse-jee-2020-12-R-win32-x86_64\eclipse;;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = OpenJDK Runtime Environment
+	java.runtime.version = 15.0.2+7
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 15
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = AdoptOpenJDK
+	java.vendor.url = https://adoptopenjdk.net/
+	java.vendor.url.bug = https://github.com/AdoptOpenJDK/openjdk-support/issues
+	java.vendor.version = AdoptOpenJDK
+	java.version = 15.0.2
+	java.version.date = 2021-01-19
+	java.vm.info = JRE 15 Windows 10 amd64-64-Bit Compressed References 20210121_173 (JIT enabled, AOT enabled)
+OpenJ9   - 345e1b09e
+OMR      - 741e94ea8
+JCL      - 863b523566 based on jdk-15.0.2+7
+	java.vm.name = Eclipse OpenJ9 VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 15
+	java.vm.vendor = Eclipse OpenJ9
+	java.vm.version = openj9-0.24.0
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.bind.address = localhost
+	jboss.bind.address.management = localhost
+	jboss.home.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final
+	jboss.host.name = grapenb127
+	jboss.modules.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = grapenb127
+	jboss.qualified.host.name = grapenb127
+	jboss.server.base.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone
+	jboss.server.config.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration
+	jboss.server.data.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\data
+	jboss.server.deploy.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\data\content
+	jboss.server.log.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\log
+	jboss.server.name = grapenb127
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\tmp
+	jdk.boot.class.path.append = 
+	jdk.extensions.name = Extensions for OpenJDK for Eclipse OpenJ9
+	jdk.extensions.version = 15.0.2.0
+	line.separator = 
+
+	logging.configuration = file:C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration\logging.properties
+	module.path = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\modules
+	org.jboss.boot.log.file = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\log\boot.log
+	org.jboss.logmanager.nocolor = true
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.encoding = UTF8
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = JBossTools: WildFly 22
+	sun.arch.data.model = 64
+	sun.boot.library.path = C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin
+	sun.cpu.endian = little
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = org.jboss.modules.Main -mp C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\modules org.jboss.as.standalone -b localhost --server-config=standalone.xml -Djboss.server.base.dir=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.nio.MaxDirectMemorySize = 469762048
+	sun.nio.PageAlignDirectMemory = false
+	sun.rmi.dgc.client.gcInterval = 3600000
+	sun.rmi.dgc.server.gcInterval = 3600000
+	user.country = US
+	user.dir = C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\bin
+	user.home = C:\Users\dbobula
+	user.language = en
+	user.name = dbobula
+	user.timezone = Europe/Budapest
+	user.variant = 
+2021-02-21 22:12:09,889 DEBUG [org.jboss.as.config] (MSC service thread 1-2) VM Arguments: -Xoptionsfile=C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\lib\options.default -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple -Xjcl:jclse29 -Dcom.ibm.oti.vm.bootstrap.library.path=C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin -Dsun.boot.library.path=C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin -Djava.library.path=C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin;C:\WINDOWS\system32;C:\WINDOWS;native;C:/Program Files/AdoptOpenJDK/jdk-15.0.2.7-openj9/bin/server;C:/Program Files/AdoptOpenJDK/jdk-15.0.2.7-openj9/bin;C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\Users\dbobula\programs\openjdk-11.0.2\jdk-11.0.2\bin;C:\Users\dbobula\programs\gradle-5.5.1-all\gradle-5.5.1\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;"C:\Users\dbobula\AppData\Local\Microsoft\WindowsApps;C:\Users\dbobula\programs\openjdk-11.0.2\jdk-11.0.2\bin";C:\tools\mysql\current\bin;C:\Users\dbobula\AppData\Local\atom\bin;C:\Users\dbobula\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dbobula\AppData\Roaming\npm;C:\Users\dbobula\AppData\Local\GitHubDesktop\bin;C:\Users\dbobula\Desktop\bin;C:\Users\dbobula\Desktop;C:\Users\dbobula\private\msys2\usr\bin;C:\Users\dbobula\private\msys2\mingw64\bin;C:\Users\dbobula\private\Dekl;C:\Users\dbobula\private;C:\Program Files\Azure Data Studio\bin;C:\Users\dbobula\.dotnet\tools;C:\Users\dbobula\private\MSc\01\SOI\apache-maven-3.6.3\bin;C:\Users\dbobula\private\MSc\01\SOI\protoc-3.15.1-win64\bin;;C:\Users\dbobula\private\MSc\01\SOI\eclipse-jee-2020-12-R-win32-x86_64\eclipse;;. -Djava.home=C:\Program Files\AdoptOpenJDK\jdk-15.0.2.7-openj9 -Duser.dir=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\bin -Dprogram.name=JBossTools: WildFly 22 -Xms64m -Xmx512m -Dorg.jboss.resolver.warning=true -Djava.net.preferIPv4Stack=true -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Djboss.modules.system.pkgs=org.jboss.byteman -Djava.awt.headless=true -Dorg.jboss.boot.log.file=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\log\boot.log -Dlogging.configuration=file:C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration\logging.properties -Djboss.home.dir=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final -Dorg.jboss.logmanager.nocolor=true --add-exports=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=jdk.unsupported/sun.misc=ALL-UNNAMED --add-exports=jdk.unsupported/sun.reflect=ALL-UNNAMED --add-modules=java.se -Djboss.bind.address.management=localhost --add-modules=ALL-SYSTEM -Dfile.encoding=Cp1252 -Djava.class.path=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\jboss-modules.jar -XX:+ShowCodeDetailsInExceptionMessages -Dsun.java.command=org.jboss.modules.Main -mp C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\modules org.jboss.as.standalone -b localhost --server-config=standalone.xml -Djboss.server.base.dir=C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone -Dsun.java.launcher=SUN_STANDARD 
+2021-02-21 22:12:11,169 INFO  [org.wildfly.security] (ServerService Thread Pool -- 28) ELY00001: WildFly Elytron version 1.14.1.Final
+2021-02-21 22:12:12,108 INFO  [org.jboss.as.controller.management-deprecated] (Controller Boot Thread) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/core-service=management/management-interface=http-interface' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2021-02-21 22:12:12,132 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 32) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/subsystem=undertow/server=default-server/https-listener=https' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2021-02-21 22:12:12,181 INFO  [org.jboss.as.server.deployment.scanner] (DeploymentScanner-threads - 1) WFLYDS0004: Found hellows.service.codefirst.war in deployment directory. To trigger deployment create a file called hellows.service.codefirst.war.dodeploy
+2021-02-21 22:12:12,261 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2021-02-21 22:12:12,283 INFO  [org.xnio] (MSC service thread 1-3) XNIO version 3.8.4.Final
+2021-02-21 22:12:12,304 INFO  [org.xnio.nio] (MSC service thread 1-3) XNIO NIO Implementation Version 3.8.4.Final
+2021-02-21 22:12:12,384 INFO  [org.jboss.as.jaxrs] (ServerService Thread Pool -- 55) WFLYRS0016: RESTEasy version 3.14.0.Final
+2021-02-21 22:12:12,395 WARN  [org.jboss.as.txn] (ServerService Thread Pool -- 74) WFLYTX0013: The node-identifier attribute on the /subsystem=transactions is set to the default value. This is a danger for environments running multiple servers. Please make sure the attribute value is unique.
+2021-02-21 22:12:12,478 INFO  [org.wildfly.extension.microprofile.config.smallrye._private] (ServerService Thread Pool -- 63) WFLYCONF0001: Activating WildFly MicroProfile Config Subsystem
+2021-02-21 22:12:12,489 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 72) WFLYSEC0002: Activating Security Subsystem
+2021-02-21 22:12:12,557 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0003: Undertow 2.2.4.Final starting
+2021-02-21 22:12:12,581 INFO  [org.jboss.as.webservices] (ServerService Thread Pool -- 76) WFLYWS0002: Activating WebServices Extension
+2021-02-21 22:12:12,583 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 53) WFLYCLINF0001: Activating Infinispan subsystem.
+2021-02-21 22:12:12,646 INFO  [org.wildfly.extension.health] (ServerService Thread Pool -- 52) WFLYHEALTH0001: Activating Base Health Subsystem
+2021-02-21 22:12:12,672 INFO  [org.wildfly.extension.microprofile.jwt.smallrye._private] (ServerService Thread Pool -- 64) WFLYJWT0001: Activating WildFly MicroProfile JWT Subsystem
+2021-02-21 22:12:12,690 INFO  [org.jboss.as.jsf] (ServerService Thread Pool -- 60) WFLYJSF0007: Activated the following JSF Implementations: [main]
+2021-02-21 22:12:12,703 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 66) WFLYNAM0001: Activating Naming Subsystem
+2021-02-21 22:12:12,727 INFO  [org.wildfly.extension.microprofile.opentracing] (ServerService Thread Pool -- 65) WFLYTRACEXT0001: Activating MicroProfile OpenTracing Subsystem
+2021-02-21 22:12:12,755 INFO  [org.jboss.as.security] (MSC service thread 1-5) WFLYSEC0001: Current PicketBox version=5.0.3.Final-redhat-00007
+2021-02-21 22:12:12,783 INFO  [org.jboss.as.naming] (MSC service thread 1-6) WFLYNAM0003: Starting Naming Service
+2021-02-21 22:12:13,064 INFO  [org.jboss.as.connector] (MSC service thread 1-6) WFLYJCA0009: Starting JCA Subsystem (WildFly/IronJacamar @VERSION@)
+2021-02-21 22:12:13,084 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 44) WFLYJCA0004: Deploying JDBC-compliant driver class org.h2.Driver (version 1.4)
+2021-02-21 22:12:13,192 INFO  [org.wildfly.extension.metrics] (ServerService Thread Pool -- 62) WFLYMETRICS0001: Activating Base Metrics Subsystem
+2021-02-21 22:12:13,197 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-4) WFLYMAIL0001: Bound mail session [java:jboss/mail/Default]
+2021-02-21 22:12:13,295 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 54) WFLYIO001: Worker 'default' has auto-configured to 8 IO threads with 64 max task threads based on your 4 available processors
+2021-02-21 22:12:13,414 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0018: Started Driver service with driver-name = h2
+2021-02-21 22:12:13,515 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 75) WFLYUT0014: Creating file handler for path 'C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final/welcome-content' with options [directory-listing: 'false', follow-symlink: 'false', case-sensitive: 'true', safe-symlink-paths: '[]']
+2021-02-21 22:12:13,751 INFO  [org.jboss.as.ejb3] (MSC service thread 1-1) WFLYEJB0481: Strict pool slsb-strict-max-pool is using a max instance size of 64 (per class), which is derived from thread worker pool sizing.
+2021-02-21 22:12:13,751 INFO  [org.jboss.as.ejb3] (MSC service thread 1-7) WFLYEJB0482: Strict pool mdb-strict-max-pool is using a max instance size of 16 (per class), which is derived from the number of CPUs on this host.
+2021-02-21 22:12:13,754 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0012: Started server default-server.
+2021-02-21 22:12:13,785 WARN  [org.wildfly.extension.elytron] (MSC service thread 1-4) WFLYELY00023: KeyStore file 'C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration\application.keystore' does not exist. Used blank.
+2021-02-21 22:12:13,792 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0018: Host default-host starting
+2021-02-21 22:12:13,792 INFO  [org.jboss.remoting] (MSC service thread 1-3) JBoss Remoting version 5.0.20.Final
+2021-02-21 22:12:13,852 WARN  [org.wildfly.extension.elytron] (MSC service thread 1-4) WFLYELY01084: KeyStore C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration\application.keystore not found, it will be auto generated on first use with a self-signed certificate for host localhost
+2021-02-21 22:12:14,071 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2021-02-21 22:12:14,335 INFO  [org.jboss.as.patching] (MSC service thread 1-2) WFLYPAT0050: WildFly Full cumulative patch ID is: base, one-off patches include: none
+2021-02-21 22:12:14,348 INFO  [org.jboss.as.ejb3] (MSC service thread 1-6) WFLYEJB0493: EJB subsystem suspension complete
+2021-02-21 22:12:14,382 WARN  [org.jboss.as.domain.management.security] (MSC service thread 1-6) WFLYDM0111: Keystore C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\configuration\application.keystore not found, it will be auto generated on first use with a self signed certificate for host localhost
+2021-02-21 22:12:14,395 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-4) WFLYDS0013: Started FileSystemDeploymentService for directory C:\Users\dbobula\private\MSc\01\SOI\wildfly-22.0.1.Final\wildfly-22.0.1.Final\standalone\deployments
+2021-02-21 22:12:14,414 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-2) WFLYSRV0027: Starting deployment of "hellows.service.codefirst.war" (runtime-name: "hellows.service.codefirst.war")
+2021-02-21 22:12:14,467 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2021-02-21 22:12:14,530 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2021-02-21 22:12:14,607 INFO  [org.jboss.ws.common.management] (MSC service thread 1-7) JBWS022052: Starting JBossWS 5.4.2.Final (Apache CXF 3.3.7) 
+2021-02-21 22:12:15,606 INFO  [org.jboss.ws.cxf.metadata] (MSC service thread 1-4) JBWS024061: Adding service endpoint metadata: id=hellows.service.codefirst.Hello
+ address=http://localhost:8080/hellows.service.codefirst/Hello
+ implementor=hellows.service.codefirst.Hello
+ serviceName={http://codefirst.service.hellows/}HelloService
+ portName={http://codefirst.service.hellows/}HelloPort
+ annotationWsdlLocation=null
+ wsdlLocationOverride=null
+ mtomEnabled=false
+2021-02-21 22:12:15,983 INFO  [org.infinispan.CONTAINER] (ServerService Thread Pool -- 78) ISPN000128: Infinispan version: Infinispan 'Corona Extra' 11.0.8.Final
+2021-02-21 22:12:16,065 INFO  [org.infinispan.CONFIG] (MSC service thread 1-3) ISPN000152: Passivation configured without an eviction policy being selected. Only manually evicted entities will be passivated.
+2021-02-21 22:12:16,069 INFO  [org.infinispan.CONFIG] (MSC service thread 1-3) ISPN000152: Passivation configured without an eviction policy being selected. Only manually evicted entities will be passivated.
+2021-02-21 22:12:16,240 INFO  [org.infinispan.PERSISTENCE] (ServerService Thread Pool -- 78) ISPN000556: Starting user marshaller 'org.wildfly.clustering.infinispan.spi.marshalling.InfinispanProtoStreamMarshaller'
+2021-02-21 22:12:16,906 INFO  [org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean] (MSC service thread 1-4) Creating Service {http://codefirst.service.hellows/}HelloService from class hellows.service.codefirst.IHello
+2021-02-21 22:12:17,061 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 78) WFLYCLINF0002: Started http-remoting-connector cache from ejb container
+2021-02-21 22:12:17,335 INFO  [org.apache.cxf.endpoint.ServerImpl] (MSC service thread 1-4) Setting the server's publish address to be http://localhost:8080/hellows.service.codefirst/Hello
+2021-02-21 22:12:17,398 INFO  [org.jboss.ws.cxf.deployment] (MSC service thread 1-4) JBWS024074: WSDL published to: file:/C:/Users/dbobula/private/MSc/01/SOI/wildfly-22.0.1.Final/wildfly-22.0.1.Final/standalone/data/wsdl/hellows.service.codefirst.war/HelloService.wsdl
+2021-02-21 22:12:17,481 INFO  [org.jboss.as.webservices] (MSC service thread 1-2) WFLYWS0003: Starting service jboss.ws.endpoint."hellows.service.codefirst.war"."hellows.service.codefirst.Hello"
+2021-02-21 22:12:17,591 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 78) WFLYUT0021: Registered web context: '/hellows.service.codefirst' for server 'default-server'
+2021-02-21 22:12:17,655 INFO  [org.jboss.as.server] (ServerService Thread Pool -- 45) WFLYSRV0010: Deployed "hellows.service.codefirst.war" (runtime-name : "hellows.service.codefirst.war")
+2021-02-21 22:12:17,741 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2021-02-21 22:12:17,745 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 22.0.1.Final (WildFly Core 14.0.1.Final) started in 9184ms - Started 425 of 627 services (350 services are lazy, passive or on-demand)
+2021-02-21 22:12:17,749 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2021-02-21 22:12:17,749 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
